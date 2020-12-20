@@ -1,0 +1,17 @@
+{
+    "name": "simple-lair-actions",
+    "title": "Simple Lair Actions",
+    "description": "Automatically manages comnbat tracker entries for lair actions",
+    "author": "Bolts",
+    "type": "module",
+    "version": "0.0.0a",
+    "minimumCoreVersion": "0.7.0",
+    "compatibleCoreVersion": "0.7.9",
+    "systems": ["dnd5e"],
+    "esmodules": [
+        "./simple-lair-actions.js"
+    ],
+    "url": "https://github.com/BoltsJ/simple-lair-actions.git",
+    "manifest": "",
+    "download": ""
+}
